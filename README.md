@@ -1,5 +1,5 @@
-## Tsuyoku ##
-Fitness logger api/web app built with webpack, babel, react, redux, express
+## Lifty ##
+Fitness logger api/web app built with webpack, babel, react, redux, express (tsuyoku v2)
 
 ### Database Models ###
 - User
